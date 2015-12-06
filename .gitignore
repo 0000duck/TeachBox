@@ -21,8 +21,14 @@
 *.la
 *.a
 *.lib
+!DuilibRobot.lib
+!Inform1.lib
+!TeachBox1_2.lib
 
 # Executables
 *.exe
 *.out
 *.app
+
+# 
+DuilibTeachBox0324/DuilibTeachBox0324/TechBoxV3.2 (ARMV4I)/
